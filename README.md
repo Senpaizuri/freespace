@@ -5,19 +5,6 @@
 
 [Orginele Free Space Formulier](files/Free-Space-formulier.pdf)
 
-## Bronnenlijst
-
-- [MDN ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
-
-- [Vue.js docs](https://vuejs.org/v2/guide/)
-- [Vue CLI](https://cli.vuejs.org/guide/)
-- [Vue.js Router](https://router.vuejs.org/guide/)
-- [Vue.js References](https://router.vuejs.org/guide/)
-- [Vue.js Methods and Events](https://v1.vuejs.org/guide/events.html)
-- [Vue Plugins](https://vuejs.org/v2/guide/plugins.html)
-
-- [Sass](https://sass-lang.com/guide)
-
 ## Process
 
 Waar ik mij vooral gericht op heb tijdens freespace is het leren van `Vue` en `SASS`.
@@ -69,3 +56,16 @@ Ik heb nu helaas nog een stuk code voor de carousels in beide componeten staan w
 - Responsive maken
 - Met de nieuwe kennis die ik nu had ik stukken code beter op kunnen zetten en meer moduliar. 
 - Vue plugins gebruiken
+
+## Bronnenlijst
+
+- [MDN ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
+
+- [Vue.js docs](https://vuejs.org/v2/guide/)
+- [Vue CLI](https://cli.vuejs.org/guide/)
+- [Vue.js Router](https://router.vuejs.org/guide/)
+- [Vue.js References](https://router.vuejs.org/guide/)
+- [Vue.js Methods and Events](https://v1.vuejs.org/guide/events.html)
+- [Vue Plugins](https://vuejs.org/v2/guide/plugins.html)
+
+- [Sass](https://sass-lang.com/guide)
