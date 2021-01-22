@@ -5,10 +5,14 @@
 ## Bronnenlijst
 
 - [MDN ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
+
 - [Vue.js docs](https://vuejs.org/v2/guide/)
 - [Vue CLI](https://cli.vuejs.org/guide/)
 - [Vue.js Router](https://router.vuejs.org/guide/)
 - [Vue.js References](https://router.vuejs.org/guide/)
+- [Vue.js Methods and Events](https://v1.vuejs.org/guide/events.html)
+
+- [Sass](https://sass-lang.com/guide)
 
 <details>
 <summary>Screenshot(s)</summary>
@@ -19,7 +23,7 @@
 
 ## Final Build
 
-[Link naar build](https://senpaizuri.github.io/freespace//dist)
+[Link naar build](https://thunderchicken.nl/freespace)
 
 <details>
 <summary>Screenshot(s)</summary>
@@ -28,6 +32,13 @@
 ![Build part 2](files/progress-2.jpg)
 
 </details>
+
+## Vocal points
+
+Waar ik mij vooral gericht op heb tijdens freespace is het leren van `Vue` en `SASS`.
+Hierbij heb ik voornamelijk documentatie online voor gebruikt om een prototype te maken met een al bestaande website als richtlijn.
+
+Ik heb mij hier ook geprobeerd uit te dagen door stukken uit de website ook te animeren naast het gewoon plat namaken in de carousel en de detail pagina.
 
 ### "Extras"
 
