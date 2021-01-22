@@ -1,7 +1,10 @@
-# Procesverslag FreeSpace
+# Procesverslag FreeSpace 20/21
 
 **Student:** Maikel Sleebos
+
 **Student Nr:** 500730177
+
+**Docent:** Ruben Logjes
 
 [Orginele Free Space Formulier](files/Free-Space-formulier.pdf)
 
