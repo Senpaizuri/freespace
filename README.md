@@ -35,8 +35,8 @@ Ik heb nu helaas nog een stuk code voor de carousels in beide componeten staan w
 <details>
 <summary>Screenshot(s)</summary>
 
-![Build part 1](files/final.jpg)
-![Build part 2](files/final2.jpg)
+![Build part 1](files/final.png)
+![Build part 2](files/final2.png)
 
 </details>
 
