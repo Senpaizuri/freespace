@@ -4,11 +4,11 @@
 
 ## Bronnenlijst
 
-[MDN ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
-[Vue.js docs](https://vuejs.org/v2/guide/)
-[Vue CLI](https://cli.vuejs.org/guide/)
-[Vue.js Router](https://router.vuejs.org/guide/)
-[Vue.js References](https://v3.vuejs.org/guide/component-template-refs.html)
+- [MDN ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
+- [Vue.js docs](https://vuejs.org/v2/guide/)
+- [Vue CLI](https://cli.vuejs.org/guide/)
+- [Vue.js Router](https://router.vuejs.org/guide/)
+- [Vue.js References](https://router.vuejs.org/guide/)
 
 <details>
 <summary>Screenshot(s)</summary>
@@ -19,7 +19,7 @@
 
 ## Final Build
 
-[Link naar build](https://senpaizuri.github.io/FED/)
+[Link naar build](https://senpaizuri.github.io/freespace//dist)
 
 <details>
 <summary>Screenshot(s)</summary>
@@ -29,7 +29,7 @@
 
 </details>
 
-### Toeters & Bellen
+### "Extras"
 
 - Carousel
 - Reading Scheme Toggle
@@ -44,6 +44,5 @@
 
 ### Improvements/ToDo's
 
-- Let me use classes please.
 - Animaties kunnen slicker, Sommige delen zijn op de originele site anderes uitgebouwd om animaties te onderteunen. Hier helaas niet.
 - Responsive maken
