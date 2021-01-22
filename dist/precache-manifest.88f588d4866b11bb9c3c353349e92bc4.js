@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "630924a5c91504017917c868790de2f7",
-    "url": "/fonts/Muli/Muli-LightItalic.woff"
+    "revision": "efd9e55d84b016d22d753f255d0443dc",
+    "url": "/fonts/Muli/Muli-SemiBold.woff"
   },
   {
     "revision": "f67b23b0ce47723d06f4bca838b556f9",
@@ -16,16 +16,20 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "ba816a0fc620b5c9546418d0c050f7f9",
-    "url": "/videos/animated-ionia.webm"
+    "revision": "abe250d784cbc67ec916443fc3bd5d16",
+    "url": "/videos/animated-demacia.webm"
+  },
+  {
+    "revision": "320e49b13d26d917f52455be17dd82d7",
+    "url": "/img/champion.png"
   },
   {
     "revision": "748c048fa9051677d0de4758d73a5944",
     "url": "/img/faction.png"
   },
   {
-    "revision": "320e49b13d26d917f52455be17dd82d7",
-    "url": "/img/champion.png"
+    "revision": "c29f5366278f9d3a69d7ae9878776cfd",
+    "url": "/img/logo.svg"
   },
   {
     "revision": "65453b66d71297eb2bb4282c5eade742",
@@ -36,20 +40,16 @@ self.__precacheManifest = [
     "url": "/img/na-esrb.png"
   },
   {
-    "revision": "c29f5366278f9d3a69d7ae9878776cfd",
-    "url": "/img/logo.svg"
+    "revision": "fc6306e24e061b521a45cfe3306dbf32",
+    "url": "/img/svg/bird-face.svg"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   },
   {
-    "revision": "fc6306e24e061b521a45cfe3306dbf32",
-    "url": "/img/svg/bird-face.svg"
-  },
-  {
-    "revision": "abe250d784cbc67ec916443fc3bd5d16",
-    "url": "/videos/animated-demacia.webm"
+    "revision": "ba816a0fc620b5c9546418d0c050f7f9",
+    "url": "/videos/animated-ionia.webm"
   },
   {
     "revision": "880a741f444fd53dda42a209915ab446",
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "/img/seraphine.jpg"
   },
   {
-    "revision": "3c9c7e83ebadd7b4ae57b1feba323632",
-    "url": "/img/story-harmonies.jpg"
-  },
-  {
     "revision": "d3cb72412fbc8a2d029eaae4d9b92876",
     "url": "/img/udyr.jpg"
+  },
+  {
+    "revision": "3c9c7e83ebadd7b4ae57b1feba323632",
+    "url": "/img/story-harmonies.jpg"
   },
   {
     "revision": "75b38045afd18f42a240",
@@ -100,12 +100,20 @@ self.__precacheManifest = [
     "url": "/img/champion-braum-splash.jpg"
   },
   {
-    "revision": "efd9e55d84b016d22d753f255d0443dc",
-    "url": "/fonts/Muli/Muli-SemiBold.woff"
+    "revision": "d14a1dddd6b37923a3ee83105e77a993",
+    "url": "/fonts/Muli/Muli-Italic.woff"
   },
   {
     "revision": "e816c3852dcc38a1fe224bc6f94617e8",
     "url": "/fonts/Muli/Muli-SemiBoldItalic.woff"
+  },
+  {
+    "revision": "efe32cc563191000fabd6696ede19472",
+    "url": "/fonts/Muli/Muli-Regular.woff"
+  },
+  {
+    "revision": "053b34b51a33dee82dfc405b830173e1",
+    "url": "/fonts/Muli/Muli-Light.woff"
   },
   {
     "revision": "2877577cc96f45ad7c32e8aac6d6e89e",
@@ -114,14 +122,6 @@ self.__precacheManifest = [
   {
     "revision": "1a61985384627ad91a6696b2bda7575e",
     "url": "/img/champion-icon.png"
-  },
-  {
-    "revision": "23d6b0340d74cbd584a52fe77ce5a166",
-    "url": "/fonts/beaufort-lol.woff2"
-  },
-  {
-    "revision": "5b8e55ee0ce2f81de23d967ccb6e4805",
-    "url": "/fonts/beaufort-medium-lol.woff2"
   },
   {
     "revision": "b5c9596bbce62c7455e0612ccc896f44",
@@ -140,28 +140,28 @@ self.__precacheManifest = [
     "url": "/img/champion-bard-splash.jpg"
   },
   {
-    "revision": "962e668fa8244d91b72a0f3ee5a7e142",
-    "url": "/fonts/mark.woff2"
+    "revision": "630924a5c91504017917c868790de2f7",
+    "url": "/fonts/Muli/Muli-LightItalic.woff"
   },
   {
-    "revision": "84c7427658adb1e1b6f6ca981c343700",
-    "url": "/fonts/spiegel-bold.woff2"
+    "revision": "23d6b0340d74cbd584a52fe77ce5a166",
+    "url": "/fonts/beaufort-lol.woff2"
   },
   {
     "revision": "f177b517acc7c1d3797132e01ee2c631",
     "url": "/img/champion-jhin-splash.jpg"
   },
   {
-    "revision": "efe32cc563191000fabd6696ede19472",
-    "url": "/fonts/Muli/Muli-Regular.woff"
+    "revision": "84c7427658adb1e1b6f6ca981c343700",
+    "url": "/fonts/spiegel-bold.woff2"
   },
   {
-    "revision": "053b34b51a33dee82dfc405b830173e1",
-    "url": "/fonts/Muli/Muli-Light.woff"
+    "revision": "962e668fa8244d91b72a0f3ee5a7e142",
+    "url": "/fonts/mark.woff2"
   },
   {
-    "revision": "d14a1dddd6b37923a3ee83105e77a993",
-    "url": "/fonts/Muli/Muli-Italic.woff"
+    "revision": "5b8e55ee0ce2f81de23d967ccb6e4805",
+    "url": "/fonts/beaufort-medium-lol.woff2"
   },
   {
     "revision": "19b0493cc8b7ac79c5c036e139530201",
