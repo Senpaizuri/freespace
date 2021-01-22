@@ -201,7 +201,7 @@ export default {
     >header {
         min-height: calc(100vh - 5rem);
         overflow: hidden;
-        background-image: url('/img/udyr.jpg');
+        background-image: url('https://thunderchicken.nl/freespace/img/udyr.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;

@@ -1,6 +1,6 @@
 <template>
     <nav class="nav">
-        <img class="nav__logo" src="/img/logo.svg" alt="Logo">
+        <img class="nav__logo" src="https://thunderchicken.nl/freespace/img/logo.svg" alt="Logo">
         <span>universe</span>
         <ul>
             <li><a href="#">champions</a></li>

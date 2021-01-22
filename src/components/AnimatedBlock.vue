@@ -1,15 +1,15 @@
 <template>
     <section class="animated-content">
-        <img src="/img/faction.png" alt="Champion Icon">
+        <img src="https://thunderchicken.nl/freespace/img/faction.png" alt="Champion Icon">
         <h1>Featured Regions</h1>
         <ul ref="carousel">
             <li class="next">
                 <video muted autoplay loop>
-                    <source src="/videos/animated-ionia.webm" type="video/webm" />
+                    <source src="https://thunderchicken.nl/freespace/videos/animated-ionia.webm" type="video/webm" />
                 </video>
                 <div>
                     <div>
-                        <img src="/img/faction.png" alt="Faction Icon">
+                        <img src="https://thunderchicken.nl/freespace/img/faction.png" alt="Faction Icon">
                     </div>
                     <h2>Ionia</h2>
                     <ul>
@@ -22,11 +22,11 @@
             </li>
             <li class="active">
                 <video muted autoplay loop>
-                    <source src="/videos/animated-bilgewater.webm" type="video/webm" />
+                    <source src="https://thunderchicken.nl/freespace/videos/animated-bilgewater.webm" type="video/webm" />
                 </video>
                 <div>
                     <div>
-                        <img src="/img/faction.png" alt="Faction Icon">
+                        <img src="https://thunderchicken.nl/freespace/img/faction.png" alt="Faction Icon">
                     </div>
                     <h2>Bilgewater</h2>
                     <ul>
@@ -39,11 +39,11 @@
             </li>
             <li class="prev">
                 <video muted autoplay loop>
-                    <source src="/videos/animated-demacia.webm" type="video/webm" />
+                    <source src="https://thunderchicken.nl/freespace/videos/animated-demacia.webm" type="video/webm" />
                 </video>
                 <div>
                     <div>
-                        <img src="/img/faction.png" alt="Faction Icon">
+                        <img src="https://thunderchicken.nl/freespace/img/faction.png" alt="Faction Icon">
                     </div>
                     <h2>Demacia</h2>
                     <ul>

@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.7076f766.js"
   },
   {
-    "revision": "8a11c352aa7f556b4f0cdac7ca11728a",
+    "revision": "06a1ef44901f0018358caf89e1e7eb51",
     "url": "/index.html"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/img/logo.svg"
   },
   {
-    "revision": "65453b66d71297eb2bb4282c5eade742",
-    "url": "/img/riot logo.svg"
-  },
-  {
     "revision": "e49f5132618db3ed3b57aac17ffd207c",
     "url": "/img/na-esrb.png"
+  },
+  {
+    "revision": "65453b66d71297eb2bb4282c5eade742",
+    "url": "/img/riot logo.svg"
   },
   {
     "revision": "fc6306e24e061b521a45cfe3306dbf32",
@@ -92,28 +92,20 @@ self.__precacheManifest = [
     "url": "/img/story-harmonies.jpg"
   },
   {
-    "revision": "75b38045afd18f42a240",
-    "url": "/js/app.ec428b39.js"
+    "revision": "46f12f1b7d6323f0f90c",
+    "url": "/js/app.6ec67cd0.js"
   },
   {
     "revision": "8a8e95538cf47a12419f4fa96221818d",
     "url": "/img/champion-braum-splash.jpg"
   },
   {
-    "revision": "d14a1dddd6b37923a3ee83105e77a993",
-    "url": "/fonts/Muli/Muli-Italic.woff"
-  },
-  {
-    "revision": "e816c3852dcc38a1fe224bc6f94617e8",
-    "url": "/fonts/Muli/Muli-SemiBoldItalic.woff"
-  },
-  {
     "revision": "efe32cc563191000fabd6696ede19472",
     "url": "/fonts/Muli/Muli-Regular.woff"
   },
   {
-    "revision": "053b34b51a33dee82dfc405b830173e1",
-    "url": "/fonts/Muli/Muli-Light.woff"
+    "revision": "e816c3852dcc38a1fe224bc6f94617e8",
+    "url": "/fonts/Muli/Muli-SemiBoldItalic.woff"
   },
   {
     "revision": "2877577cc96f45ad7c32e8aac6d6e89e",
@@ -124,12 +116,20 @@ self.__precacheManifest = [
     "url": "/img/champion-icon.png"
   },
   {
+    "revision": "e2263194ec33cc76db4d74b36ae9db85",
+    "url": "/fonts/beaufort-bolditalic-lol.woff2"
+  },
+  {
+    "revision": "23d6b0340d74cbd584a52fe77ce5a166",
+    "url": "/fonts/beaufort-lol.woff2"
+  },
+  {
     "revision": "b5c9596bbce62c7455e0612ccc896f44",
     "url": "/img/champion-lillia-splash.jpg"
   },
   {
-    "revision": "e2263194ec33cc76db4d74b36ae9db85",
-    "url": "/fonts/beaufort-bolditalic-lol.woff2"
+    "revision": "5b8e55ee0ce2f81de23d967ccb6e4805",
+    "url": "/fonts/beaufort-medium-lol.woff2"
   },
   {
     "revision": "982372d0beb3b2565e914f7f035ac161",
@@ -140,28 +140,28 @@ self.__precacheManifest = [
     "url": "/img/champion-bard-splash.jpg"
   },
   {
-    "revision": "630924a5c91504017917c868790de2f7",
-    "url": "/fonts/Muli/Muli-LightItalic.woff"
-  },
-  {
-    "revision": "23d6b0340d74cbd584a52fe77ce5a166",
-    "url": "/fonts/beaufort-lol.woff2"
-  },
-  {
-    "revision": "f177b517acc7c1d3797132e01ee2c631",
-    "url": "/img/champion-jhin-splash.jpg"
+    "revision": "962e668fa8244d91b72a0f3ee5a7e142",
+    "url": "/fonts/mark.woff2"
   },
   {
     "revision": "84c7427658adb1e1b6f6ca981c343700",
     "url": "/fonts/spiegel-bold.woff2"
   },
   {
-    "revision": "962e668fa8244d91b72a0f3ee5a7e142",
-    "url": "/fonts/mark.woff2"
+    "revision": "f177b517acc7c1d3797132e01ee2c631",
+    "url": "/img/champion-jhin-splash.jpg"
   },
   {
-    "revision": "5b8e55ee0ce2f81de23d967ccb6e4805",
-    "url": "/fonts/beaufort-medium-lol.woff2"
+    "revision": "630924a5c91504017917c868790de2f7",
+    "url": "/fonts/Muli/Muli-LightItalic.woff"
+  },
+  {
+    "revision": "053b34b51a33dee82dfc405b830173e1",
+    "url": "/fonts/Muli/Muli-Light.woff"
+  },
+  {
+    "revision": "d14a1dddd6b37923a3ee83105e77a993",
+    "url": "/fonts/Muli/Muli-Italic.woff"
   },
   {
     "revision": "19b0493cc8b7ac79c5c036e139530201",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
     "url": "/fonts/Muli/Muli-ExtraBold.woff"
   },
   {
-    "revision": "75b38045afd18f42a240",
-    "url": "/css/app.646e3765.css"
+    "revision": "46f12f1b7d6323f0f90c",
+    "url": "/css/app.9bbcc61c.css"
   }
 ];

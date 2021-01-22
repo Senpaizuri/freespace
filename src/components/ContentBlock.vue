@@ -1,12 +1,12 @@
 <template>
     <section class="content-block">
-        <img src="/img/champion-icon.png" alt="Champion Icon">
+        <img src="https://thunderchicken.nl/freespace/img/champion-icon.png" alt="Champion Icon">
         <h1>Latest</h1>
         <div>
             <ul>
                 <li>
                     <a href="#">
-                        <img src="/img/champion-volibear-splash.jpg" alt="Volibear">
+                        <img src="https://thunderchicken.nl/freespace/img/champion-volibear-splash.jpg" alt="Volibear">
                         <div>
                             <span>the Relentless Storm</span>
                             <h2>Volibear</h2>
@@ -18,7 +18,7 @@
                 </li>
                 <li>
                     <a href="#">
-                        <img src="/img/champion-ahri-splash.jpg" alt="ahri">
+                        <img src="https://thunderchicken.nl/freespace/img/champion-ahri-splash.jpg" alt="ahri">
                         <div>
                             <span>the Nine-Tailed Fox</span>
                             <h2>ahri</h2>
@@ -30,7 +30,7 @@
                 </li>
                 <li>
                     <a href="#">
-                        <img src="/img/champion-bard-splash.jpg" alt="bard">
+                        <img src="https://thunderchicken.nl/freespace/img/champion-bard-splash.jpg" alt="bard">
                         <div>
                             <span>the Wandering Caretaker</span>
                             <h2>bard</h2>
@@ -42,7 +42,7 @@
                 </li>
                 <li>
                     <a href="#">
-                        <img src="/img/champion-jhin-splash.jpg" alt="jhin">
+                        <img src="https://thunderchicken.nl/freespace/img/champion-jhin-splash.jpg" alt="jhin">
                         <div>
                             <span>the Virtuoso</span>
                             <h2>jhin</h2>
@@ -54,7 +54,7 @@
                 </li>
                 <li>
                     <a href="">
-                        <img src="/img/champion-pantheon-splash.jpg" alt="pantheon">
+                        <img src="https://thunderchicken.nl/freespace/img/champion-pantheon-splash.jpg" alt="pantheon">
                         <div>
                             <span>The Unbreakable Spear</span>
                             <h2>pantheon</h2>
@@ -219,7 +219,7 @@ export default {
                             height: 2.5rem;
                             width: 2.5rem;
                             background-color: $color-black--light;
-                            background-image: url('/img/champion.png');
+                            background-image: url('https://thunderchicken.nl/freespacehttps://thunderchicken.nl/freespace/img/champion.png');
                             background-size: 1rem;
                             background-position: center;
                             background-repeat: no-repeat;

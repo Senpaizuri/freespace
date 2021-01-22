@@ -20,7 +20,7 @@
                 <a href="#">esports pro site</a>
             </li>
         </ul>
-        <img src="/img/riot logo.svg" alt="Riot Logo">
+        <img src="https://thunderchicken.nl/freespace/img/riot logo.svg" alt="Riot Logo">
         <p>© 2020 Riot Games, Inc. All rights reserved. Riot Games, League of Legends and PvP.net are trademarks,
             services
             marks, or registered trademarks of Riot Games, Inc.</p>
@@ -33,7 +33,7 @@
             </li>
         </ul>
         <div>
-            <img src="/img/na-esrb.png" alt="ESRB Rating">
+            <img src="https://thunderchicken.nl/freespace/img/na-esrb.png" alt="ESRB Rating">
             <ul>
                 <li>Blood</li>
                 <li>Fantasy Violence</li>
