@@ -13,7 +13,7 @@
 <details>
 <summary>Screenshot(s)</summary>
 
-![League Universe](docs/league-universe.jpg)
+![League Universe](files/league-universe.jpg)
 
 </details>
 
@@ -24,8 +24,8 @@
 <details>
 <summary>Screenshot(s)</summary>
 
-![Build part 1](docs/progress.jpg)
-![Build part 2](docs/progress-2.jpg)
+![Build part 1](files/progress.jpg)
+![Build part 2](files/progress-2.jpg)
 
 </details>
 
